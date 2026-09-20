@@ -26,9 +26,6 @@ Program mengelola sekumpulan objek Film (Array of Objects) untuk fitur CRUD (Cre
 # Dokumentasi Program
 Berikut adalah bukti bahwa program berhasil dijalankan pada keempat bahasa pemrograman beserta fitur-fitur wajibnya (Tambah, Tampil, Update, Hapus, Cari):
 
-  # Dokumentasi Program
-Berikut adalah bukti bahwa program berhasil dijalankan pada keempat bahasa pemrograman beserta fitur-fitur wajibnya (Tambah, Tampil, Update, Hapus, Cari):
-
   ## Output Program C++
   ### Tambah Data
   ![Tambah Data](Dokumentasi/CPP/tambah%20data.png)
